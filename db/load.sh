@@ -1,0 +1,1 @@
+sqlite3 books.db < init_books.sql
